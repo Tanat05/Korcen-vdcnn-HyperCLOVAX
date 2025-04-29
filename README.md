@@ -9,6 +9,8 @@
 
 [Korcen-kogpt2](https://github.com/Tanat05/korcen-kogpt2): First innovation and first failure
 
+![vdcnn_training_history](https://github.com/user-attachments/assets/00ccb357-366a-44d8-aef4-c5d9478ddcd7)
+
 # Example PY: 3.10 TF: 2.10
 ```py
 import pandas as pd
